@@ -1,5 +1,5 @@
 # encuesta_e-learning
-Valoracioón de criterios de e-learning en México
+Valoración de criterios de e-learning en México
 
 Tomando como base la información generada en (Quadri Noorulhasan, y otros, 2019) en la Tabla 1 de dicho documento, 
 con respecto a los factores críticos de éxito (CSFs por sus siglas en ingles) y tomando en cuenta las dimensiones de: 
